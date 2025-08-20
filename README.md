@@ -2,7 +2,7 @@
 1. How to find DNS in your computer:
 a) On Windows,
 b) Using Command Prompt
-c) Type: ipconfig /all
+c) Type: ipconfig
 d) Check the "DNS Server" under your network adapter.
 2. How to change DNS in your computer:
 a) Press Win + I  or open control panel → go to Network & Internet.
