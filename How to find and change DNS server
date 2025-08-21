@@ -4,7 +4,7 @@ a) On Windows
 
 b) Using Command Prompt
 
-c) Type: ipconfig
+c) Type: ipconfig /all
 
 d) Check the "DNS Server" under your network adapter.
 
@@ -18,12 +18,10 @@ b) Select Wi-Fi (if wireless) or Ethernet (if wired).
 
 c) Click Change adapter options (or Advanced network settings → Change adapter options).
 
-d) Right-click your active connection → Properties.
+d) Select Internet Protocol Version 4 (TCP/IPv4) → Properties
 
-e) Select Internet Protocol Version 4 (TCP/IPv4) → Properties
+e) Choose the following DNS server addresses and enter:
 
-f) Choose the following DNS server addresses and enter:
+f) Then add the new DNS you want to use
 
-g) Then add the new DNS you want to use
-
-h) Then click OK → reconnect to apply.
+g) Then click OK → reconnect to apply.
